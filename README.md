@@ -1,4 +1,4 @@
-#testing java thread com clientes Sockets
+# Testing client sockets using the thread. 
 
 
 
